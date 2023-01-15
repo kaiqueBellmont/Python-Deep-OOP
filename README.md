@@ -35,3 +35,4 @@ class Person:
 ```
 ***
 #### Em Breve estarei disponibilizando links e repositorios para auxiliar nos estudos de várias pessoas.
+#### Link para os PDFs: [GoogleDrive](https://drive.google.com/drive/folders/1lMyJU2XelVmr_NvuPHFLRzaCoG9TCGwP?usp=sharing)
